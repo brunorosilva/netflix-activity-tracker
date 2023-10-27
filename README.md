@@ -1,6 +1,6 @@
 # Streaming Activity Tracker
 
-Silly little project I made for extracting the pauses during a netflix session using a chrome extension using manifest v3.
+Silly little project I made for extracting the progress during a netflix session using a chrome extension with manifest v3.
 
 ## Why?
 The idea for this project came from years of using series tracking websites, and how it's a pain to constantly sync these websites with my consumption in real time. TBH, this project does not solve this issue just yet, but maybe in the future I might continue working on it. Also, I've always wanted to create chrome extensions just to learn it.
